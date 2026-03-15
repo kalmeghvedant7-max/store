@@ -14,6 +14,9 @@ public class Main {
                 System.out.print( 2 * i +" -> :");
 
                 System.out.println("to ototo to");
+
+                System.out.println("contect info found");
+                System.out.println("not found");
             }
         }
     }
