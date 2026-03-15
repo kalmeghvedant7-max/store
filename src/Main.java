@@ -12,6 +12,7 @@ public class Main {
 
             }else {
                 System.out.print( 2 * i +" -> :");
+                System.out.println("to ototo to");
             }
         }
     }
